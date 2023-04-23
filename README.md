@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prezvust
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently working in HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - https://www.linkedin.com/in/patrikposavec/
 
